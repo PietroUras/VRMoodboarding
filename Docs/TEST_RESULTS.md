@@ -83,10 +83,6 @@ All gestures were positively received by users.
 
 ---
 
-Here is the corrected and clarified version of your **Hybrid Mode Input Distribution** section, with improved structure and updated explanation based on your description of **close** vs **far** window contexts:
-
----
-
 ## 🧠 Gesture vs Button Usage in Hybrid Mode
 
 In hybrid mode, user preferences vary depending on the type of action and the spatial context.
