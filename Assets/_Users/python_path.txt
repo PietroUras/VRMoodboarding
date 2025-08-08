@@ -1,0 +1,2 @@
+"C:\\Users\\pietr\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
+"E:\\Generative-AI-Powered-Moodboarding\\pythonProject1\\Image_Generation_API_Request_NScale.py"

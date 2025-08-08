@@ -1,0 +1,153 @@
+{
+    "projects": [
+        {
+            "id": "509f32dc",
+            "name": "Sea",
+            "brief": "Summer commercial",
+            "moodboards": [
+                {
+                    "id": "040c9a55",
+                    "name": "Sea",
+                    "position": {
+                        "x": 2.959577798843384,
+                        "y": 2.0759377479553224,
+                        "z": 0.40990814566612246
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.6542924642562866,
+                        "z": 0.0,
+                        "w": 0.7562416195869446
+                    },
+                    "images": [
+                        {
+                            "id": "0f3d7d4a",
+                            "src": "GeneratedImages\\image_06_18_08_45_55.png",
+                            "userPrompt": "Sea",
+                            "format": "Portrait",
+                            "style": "Painting",
+                            "view": "Side",
+                            "colors": "Normal Colors",
+                            "light": "Studio",
+                            "mood": "Dreamy",
+                            "position": {
+                                "x": 1106.160888671875,
+                                "y": 292.5078125,
+                                "z": 0.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0,
+                                "w": 1.0
+                            },
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0,
+                                "z": 1.0
+                            }
+                        },
+                        {
+                            "id": "7889f670",
+                            "src": "GeneratedImages\\image_06_18_08_52_30.png",
+                            "userPrompt": "Caraibic Beach",
+                            "format": "Landscape",
+                            "style": "Painting",
+                            "view": "Behind",
+                            "colors": "High Saturation",
+                            "light": "Golden Hour",
+                            "mood": "Nostalgic",
+                            "position": {
+                                "x": -602.9259033203125,
+                                "y": 478.9742431640625,
+                                "z": 0.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0,
+                                "w": 1.0
+                            },
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0,
+                                "z": 1.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "652307df",
+                    "name": "Swimming",
+                    "position": {
+                        "x": -0.23242034018039704,
+                        "y": 2.057533025741577,
+                        "z": 2.9097506999969484
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": -0.07789313048124314,
+                        "z": 0.0,
+                        "w": 0.9969617128372192
+                    },
+                    "images": [
+                        {
+                            "id": "7ebefff2",
+                            "src": "GeneratedImages\\image_06_18_08_47_42.png",
+                            "userPrompt": "Person swimming in the ocean",
+                            "format": "Portrait",
+                            "style": "Painting",
+                            "view": "Side",
+                            "colors": "Normal Colors",
+                            "light": "Studio",
+                            "mood": "Dreamy",
+                            "position": {
+                                "x": 1105.6324462890625,
+                                "y": 153.95367431640626,
+                                "z": 0.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0,
+                                "w": 1.0
+                            },
+                            "scale": {
+                                "x": 1.0,
+                                "y": 1.0,
+                                "z": 1.0
+                            }
+                        },
+                        {
+                            "id": "7a45df6a",
+                            "src": "GeneratedImages\\image_06_18_08_51_05.png",
+                            "userPrompt": "Person swimming under water",
+                            "format": "Square",
+                            "style": "Photography",
+                            "view": "Side",
+                            "colors": "High Saturation",
+                            "light": "Neon",
+                            "mood": "Epic",
+                            "position": {
+                                "x": -822.9559326171875,
+                                "y": -808.04833984375,
+                                "z": 0.0
+                            },
+                            "rotation": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0,
+                                "w": 1.0
+                            },
+                            "scale": {
+                                "x": 1.293063759803772,
+                                "y": 1.293063759803772,
+                                "z": 1.293063759803772
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
