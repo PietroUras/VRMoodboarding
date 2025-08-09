@@ -5,6 +5,11 @@ This section summarizes the key findings from a user study, focusing on the **ef
 
 ---
 
+## 📋 Test Procedure
+
+The test followed the procedure illustrated in the graph below. The study involved 21 participants.
+<div align="center"> <img src="./Images/study_results/Test_modality.png" alt="Test procedure workflow and duration per task" width="900"/> </div>
+
 ## 📊 User Satisfaction and Workload
 
 <table>
@@ -52,34 +57,7 @@ This section summarizes the key findings from a user study, focusing on the **ef
 **Overall Ratings**
 All gestures were positively received by users.
 
-<div align="center">
-  <img src="./Images/study_results/Frame + Gesture Usability Radar Chart.png" alt="Frame Gesture Radar" width="300"/>
-  <img src="./Images/study_results/Start Mic + Gesture Usability Radar Chart.png" alt="Start Mic Gesture Radar" width="300"/>
-  <img src="./Images/study_results/Swipe + Gesture Usability Radar Chart.png" alt="Swipe Gesture Radar" width="300"/>
-  <img src="./Images/study_results/Thumb + Gesture Usability Radar Chart.png" alt="Thumb Gesture Radar" width="300"/>
-</div>
-
-### 📝 Key Insights
-
-* 🟥 **Frame**
-
-  * Most **demanding** in terms of physical effort
-  * Users appreciated its clarity, but reported fatigue over time
-
-* 🟩 **Start Mic**
-
-  * One of the **least intuitive** gestures
-  * Often confused or required explanation
-
-* 🟪 **Swipe**
-
-  * Slightly **lower responsiveness**
-  * Confirmed by lower preference scores
-
-* 🟦 **Thumbs-Up**
-
-  * Rated as **highly intuitive** and easy to perform
-  * Stands out for simplicity and effectiveness
+<table> <tr> <td align="center"> <img src="./Images/study_results/Frame + Gesture Usability Radar Chart.png" alt="Frame Gesture Radar" width="300"/> </td> <td align="center"> <img src="./Images/study_results/Start Mic + Gesture Usability Radar Chart.png" alt="Start Mic Gesture Radar" width="300"/> </td> </tr> <tr> <td> <ul> <li>🟥 <b>Frame</b></li> <li>Most physically demanding</li> <li>Clear and appreciated, but may cause fatigue over time</li> </ul> </td> <td> <ul> <li>🟩 <b>Start Mic</b></li> <li>One of the least intuitive gestures</li> <li>Often confused or requiring explanation</li> </ul> </td> </tr> <tr> <td align="center"> <img src="./Images/study_results/Swipe + Gesture Usability Radar Chart.png" alt="Swipe Gesture Radar" width="300"/> </td> <td align="center"> <img src="./Images/study_results/Thumb + Gesture Usability Radar Chart.png" alt="Thumb Gesture Radar" width="300"/> </td> </tr> <tr> <td> <ul> <li>🟪 <b>Swipe</b></li> <li>Slightly lower responsiveness</li> <li>Confirmed by lower preference scores</li> </ul> </td> <td> <ul> <li>🟦 <b>Thumbs-Up</b></li> <li>Highly intuitive and easy to perform</li> <li>Praised for simplicity and effectiveness</li> </ul> </td> </tr> </table>
 
 ---
 

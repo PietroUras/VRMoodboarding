@@ -40,19 +40,23 @@ In addition to evaluating task accuracy, speed, and user engagement, the study e
 
 ## 🛠️ Setup and Installation
 
-For detailed instructions on how to install and run the project locally, please refer to the [Installation Guide](./INSTALLATION.md) page.
+For detailed instructions on how to install and run the project locally, please refer to the [Installation Guide](./INSTALLATION.md).
 
 ---
 
 ## 🧠 Project Details
 
-An in-depth explanation of the system architecture and software components is available in the [Architecture and Interaction Design Overview](./ARCHITECTURE_OVERVIEW.md) page.
+For an in-depth explanation of the system architecture and software components, please refer to the [Architecture and Interaction Design Overview](./ARCHITECTURE_OVERVIEW.md).
+
+To learn more about the user experience and design workflow, see the [User Experience for Immersive Moodboarding](./UX_OVERVIEW.md) document.
+
+---
 
 ## 📊 Study Results
 
 A user study involving 21 participants was conducted to evaluate which interaction mode was the most efficient and preferred. The study included a detailed analysis of the custom gesture set designed specifically for this application, as well as emerging patterns in combining multiple input types in hybrid interaction modes.
 
-For more information about the experiment and its outcomes, see the [Test Results](./TEST_RESULTS.md) page.
+For more information about the experiment and its outcomes, see the [Test Results](./TEST_RESULTS.md).
 
 ## 🙏 Acknowledgements
 
