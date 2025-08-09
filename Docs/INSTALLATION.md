@@ -5,7 +5,7 @@ To enable image generation features via NScale's inference platform:
 1. **Install [Python 3.12](https://www.python.org/downloads/release/python-3120/)** on your system.  
    - Ensure Python is added to your system's environment variables (`PATH`) during installation.
 2. Navigate to `Assets/_Users` and open the file named `python_path`.  
-   - Update it with the absolute path to your Python 3.12 installation and the folder containing the Unity project.  
+   - Update it with the absolute path to your Python 3.12 installation and the path of the folder `pythonProject1` present in this repo.
 3. Open the script `Image_Generation_API_Request_NScale.py` located in the `pythonProject1` directory.  
    - Insert your NScale API key in the following line:  
      ```python
